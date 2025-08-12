@@ -1,2 +1,2 @@
 # Kali linux notes 
-### [![github](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=6-I9FoO4Brg)
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/undefined" title="" frameBorder="0"   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"  allowFullScreen><br>Powered by <a href="https://youtubeembedcode.com">embed youtube video</a> and <a href="https://casinomga.se/">mga casino</a></iframe></p>
